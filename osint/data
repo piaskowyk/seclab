@@ -1,0 +1,29 @@
+https://www.exploit-db.com/google-hacking-database
+
+intitle:"index of" "/PayPal.log"
+https://sunderlandtranslations.com/paypal/
+https://sunderlandtranslations.com/paypal/PayPal.log
+
+http://www.beltranov.net/paypal/payment-log.txt
+
+----
+
+intitle:"index of" "/db_backups/"
+
+http://www.lietuvninkas.com/db_backups/
+
+-----
+
+https://www.bumperclap.com/DB%20backups/
+
+https://www.bumperclap.com/web-app/#/sign-in
+
+-----
+
+intitle:"index of" "/private/"
+
+https://spgoscicino.edu.pl/private/
+
+----
+
+site:pastebin.com intext:admin.password
